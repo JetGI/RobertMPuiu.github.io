@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a 20 years student who is studying the first year of Web Aplication Development at IES Poligono Sur. I want to bring this page to you, just to give some information about me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[onerobertmp@gmail.com](mailto:onerobertmp@gmail.com)
