@@ -28,6 +28,7 @@ en el curso de 1º de DAW, hemos tocado los siguientes aspectos en las diferente
   - Recursividad
   - Funciones simples
   - Interfaz grafica simple
+  
 + JAVA
   - Estructuracion de java
   - Introduccion de datos
@@ -41,8 +42,15 @@ en el curso de 1º de DAW, hemos tocado los siguientes aspectos en las diferente
   - Lectura de ficheros xml
   - Iniciacion en servlets
   
-  
+### Base de datos
+
++ Creacion y estructurado de tablas (tanto graficamente como en codigo)
++ Restricciones simples en las tablas
++ Introduccion de datos
++ Consultas sobre las tablas
++ Creacion de procedimientos y triggers
+
+### Lenguaje de marcas
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
