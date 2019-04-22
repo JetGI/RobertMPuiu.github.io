@@ -44,13 +44,38 @@ en el curso de 1º de DAW, hemos tocado los siguientes aspectos en las diferente
   
 ### Base de datos
 
-+ Creacion y estructurado de tablas (tanto graficamente como en codigo)
++ Creacion y estructurado de base de datos (tanto graficamente como en codigo)
++ Creacion de usuario
 + Restricciones simples en las tablas
++ Actualización de las tablas
 + Introduccion de datos
 + Consultas sobre las tablas
-+ Creacion de procedimientos y triggers
++ Creacion de procedimientos y disparadores
 
 ### Lenguaje de marcas
+
++ Uso de HTML5 y CSS
++ Uso de XML
++ Conceptos basicos atom, rss
++ Uso de DTD
++ Uso de SCHEMA
++ Uso de XSLT
++ Uso de XQUERY
+
+### Sistemas informaticos
+
++ Sistema binario y conversión
++ HARDWARE
+  - Puertos
+  - Discos Duros
+  - Microprocesadores
+  - Ventilación
+  - Memorias
++ SOFTWARE
+  - Comandos en windows con la maquina virtual
+  - Ver caracteristicas de windows, y como configurarlo
+  - Comandos en linux con la maquina virtual
+  - creacion de un sistema de particiones con GPARTED
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
