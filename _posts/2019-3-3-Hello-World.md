@@ -76,6 +76,3 @@ en el curso de 1º de DAW, hemos tocado los siguientes aspectos en las diferente
   - Ver caracteristicas de windows, y como configurarlo
   - Comandos en linux con la maquina virtual
   - creacion de un sistema de particiones con GPARTED
-
-
-![_config.yml]
